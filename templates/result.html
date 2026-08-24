@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WiseBuyer AI - Report</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <style>
+        /* Popup overlay */
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background: rgba(0,0,0,0.6);
+            justify-content: center;
+            align-items: center;
+        }
+
+        .popup {
+            background: white;
+            padding: 25px;
+            width: 350px;
+            border-radius: 12px;
+            text-align: center;
+        }
+
+        .btn {
+            margin: 10px;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            border: none;
+        }
+
+        .btn-blue {
+            background: royalblue;
+            color: white;
+        }
+
+        .btn-grey {
+            background: grey;
+            color: white;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<div class="container">
+    <h1>WiseBuyer AI – Basic Report</h1>
+    <h3>{{ product }} ({{ brand }})</h3>
+
+    <pre>{{ basic_report }}</pre>
+
+    <button onclick="openPopup()" class="btn-primary">Get Financial Analysis</button>
+</div>
+
+
+<!-- POPUP BOX -->
+<div class="overlay" id="popupOverlay">
+    <div class="popup">
+        <h3>Want Financial Analysis?</h3>
+
+        <form action="/financial" method="POST">
+
+            <input type="hidden" name="product" value="{{ product }}">
+            <input type="hidden" name="brand" value="{{ brand }}">
+            <input type="hidden" name="price" value="{{ price }}">
+
+            <label>Your monthly income (₹):</label>
+            <input type="number" name="income" required>
+
+            <label>Your monthly expenses (₹):</label>
+            <input type="number" name="expenses" required>
+
+            <button class="btn btn-blue">Get Financial Report</button>
+        </form>
+
+        <button onclick="closePopup()" class="btn btn-grey">Cancel</button>
+    </div>
+</div>
+
+<script>
+    function openPopup() {
+        document.getElementById("popupOverlay").style.display = "flex";
+    }
+
+    function closePopup() {
+        document.getElementById("popupOverlay").style.display = "none";
+    }
+</script>
+
+</body>
+</html>

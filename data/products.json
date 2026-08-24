@@ -1,0 +1,1189 @@
+{
+  "Mobile": {
+    "Apple": [
+      {
+        "model": "iPhone 15",
+        "price": 79900,
+        "display": "6.1\" OLED 60Hz",
+        "processor": "A16 Bionic",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "3349 mAh",
+        "camera": "48MP + 12MP",
+        "segment": "Premium",
+        "pros": ["Great camera", "Strong performance"],
+        "cons": ["60Hz only", "Expensive"]
+      },
+      {
+        "model": "iPhone 15 Pro",
+        "price": 134900,
+        "display": "6.1\" OLED 120Hz",
+        "processor": "A17 Pro",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "3274 mAh",
+        "camera": "48MP Triple",
+        "segment": "Flagship",
+        "pros": ["Pro-level camera", "Lightweight titanium"],
+        "cons": ["Very expensive"]
+      },
+      {
+        "model": "iPhone 14",
+        "price": 69900,
+        "display": "6.1\" OLED 60Hz",
+        "processor": "A15 Bionic",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "3279 mAh",
+        "camera": "12MP Dual",
+        "segment": "Premium",
+        "pros": ["Reliable performance", "Good camera"],
+        "cons": ["60Hz refresh rate", "Similar to iPhone 13"]
+      },
+      {
+        "model": "iPhone SE (2022)",
+        "price": 42900,
+        "display": "4.7\" LCD 60Hz",
+        "processor": "A15 Bionic",
+        "ram": "4 GB",
+        "storage": "64 GB",
+        "battery": "2018 mAh",
+        "camera": "12MP Single",
+        "segment": "Compact budget iOS",
+        "pros": ["Powerful processor", "Compact size"],
+        "cons": ["Small battery", "Outdated design"]
+      }
+    ],
+    "Samsung": [
+      {
+        "model": "Galaxy S23",
+        "price": 74999,
+        "display": "6.1\" AMOLED 120Hz",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "3900 mAh",
+        "camera": "50MP Triple",
+        "segment": "Premium",
+        "pros": ["Compact", "Great display"],
+        "cons": ["Average battery"]
+      },
+      {
+        "model": "Galaxy A55",
+        "price": 39999,
+        "display": "6.6\" AMOLED 120Hz",
+        "processor": "Exynos 1480",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP Triple",
+        "segment": "Midrange",
+        "pros": ["Good screen", "Battery life"],
+        "cons": ["Processor average"]
+      },
+      {
+        "model": "Galaxy Z Fold 5",
+        "price": 154999,
+        "display": "7.6\" Foldable Dynamic AMOLED 2X 120Hz",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "4400 mAh",
+        "camera": "50MP Triple",
+        "segment": "Foldable flagship",
+        "pros": ["Innovative foldable", "Productivity"],
+        "cons": ["Very expensive", "Crease visible"]
+      },
+      {
+        "model": "Galaxy M34",
+        "price": 18999,
+        "display": "6.5\" Super AMOLED 120Hz",
+        "processor": "Exynos 1280",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "6000 mAh",
+        "camera": "50MP Triple",
+        "segment": "Budget AMOLED",
+        "pros": ["Great battery", "120Hz AMOLED"],
+        "cons": ["Average processor"]
+      }
+    ],
+    "OnePlus": [
+      {
+        "model": "OnePlus 12",
+        "price": 69999,
+        "display": "6.8\" AMOLED 120Hz",
+        "processor": "Snapdragon 8 Gen 3",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "5400 mAh",
+        "camera": "50MP Triple",
+        "segment": "Flagship",
+        "pros": ["Super fast", "Strong battery"],
+        "cons": ["Heavy phone"]
+      },
+      {
+        "model": "OnePlus Nord 3",
+        "price": 33999,
+        "display": "6.74\" AMOLED 120Hz",
+        "processor": "Dimensity 9000",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP",
+        "segment": "Midrange",
+        "pros": ["Excellent display", "Smooth performance"],
+        "cons": ["Average selfie camera"]
+      },
+      {
+        "model": "OnePlus 11R",
+        "price": 39999,
+        "display": "6.74\" Fluid AMOLED 120Hz",
+        "processor": "Snapdragon 8+ Gen 1",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP Triple",
+        "segment": "Performance flagship",
+        "pros": ["Flagship performance", "Fast charging"],
+        "cons": ["No wireless charging"]
+      },
+      {
+        "model": "OnePlus Nord CE 3",
+        "price": 26999,
+        "display": "6.7\" AMOLED 120Hz",
+        "processor": "Snapdragon 782G",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP Triple",
+        "segment": "Budget performance",
+        "pros": ["Good value", "Fast charging"],
+        "cons": ["Plastic build"]
+      }
+    ],
+    "Xiaomi": [
+      {
+        "model": "Redmi Note 13 Pro",
+        "price": 26999,
+        "display": "6.67\" AMOLED 120Hz",
+        "processor": "Snapdragon 7s Gen 2",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "5100 mAh",
+        "camera": "200MP",
+        "segment": "Upper midrange",
+        "pros": ["High-res camera", "Great screen"],
+        "cons": ["MIUI bloatware"]
+      },
+      {
+        "model": "Redmi 13C",
+        "price": 11999,
+        "display": "6.74\" LCD 90Hz",
+        "processor": "Helio G85",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP",
+        "segment": "Budget",
+        "pros": ["Good performance for price"],
+        "cons": ["Average build quality"]
+      },
+      {
+        "model": "Xiaomi 14",
+        "price": 69999,
+        "display": "6.36\" LTPO AMOLED 120Hz",
+        "processor": "Snapdragon 8 Gen 3",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "4610 mAh",
+        "camera": "50MP Leica Triple",
+        "segment": "Camera flagship",
+        "pros": ["Excellent camera", "Compact flagship"],
+        "cons": ["HyperOS learning curve"]
+      },
+      {
+        "model": "Poco X6 Pro",
+        "price": 26999,
+        "display": "6.67\" CrystalRes Flow 120Hz",
+        "processor": "Dimensity 8300 Ultra",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "5000 mAh",
+        "camera": "64MP Triple",
+        "segment": "Performance mid-range",
+        "pros": ["Great performance", "Good display"],
+        "cons": ["MIUI with ads"]
+      }
+    ],
+    "Realme": [
+      {
+        "model": "Realme 12 Pro+",
+        "price": 32999,
+        "display": "6.7\" AMOLED 120Hz",
+        "processor": "Snapdragon 7s Gen 2",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP Periscope",
+        "segment": "Midrange camera phone",
+        "pros": ["Good zoom camera", "Design"],
+        "cons": ["Software ads"]
+      },
+      {
+        "model": "Realme GT 2 Pro",
+        "price": 44999,
+        "display": "6.7\" LTPO AMOLED 120Hz",
+        "processor": "Snapdragon 8 Gen 1",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP Triple",
+        "segment": "Performance flagship",
+        "pros": ["Premium design", "Good performance"],
+        "cons": ["Heating issues", "Software updates"]
+      },
+      {
+        "model": "Realme Narzo 70 Pro",
+        "price": 19999,
+        "display": "6.67\" AMOLED 120Hz",
+        "processor": "Dimensity 7050",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP Dual",
+        "segment": "Budget performance",
+        "pros": ["AMOLED display", "Good design"],
+        "cons": ["Average camera"]
+      }
+    ],
+    "Vivo": [
+      {
+        "model": "Vivo V30",
+        "price": 33999,
+        "display": "6.78\" AMOLED 120Hz",
+        "processor": "Snapdragon 7 Gen 3",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP dual",
+        "segment": "Camera-focused midrange",
+        "pros": ["Selfie camera", "Slim design"],
+        "cons": ["Bloatware"]
+      },
+      {
+        "model": "Vivo X100 Pro",
+        "price": 89999,
+        "display": "6.78\" AMOLED 120Hz",
+        "processor": "Dimensity 9300",
+        "ram": "16 GB",
+        "storage": "512 GB",
+        "battery": "5400 mAh",
+        "camera": "50MP Zeiss Triple",
+        "segment": "Camera flagship",
+        "pros": ["Exceptional camera", "Fast charging"],
+        "cons": ["No IP68", "Pricey"]
+      }
+    ],
+    "Oppo": [
+      {
+        "model": "Oppo Reno 11",
+        "price": 31999,
+        "display": "6.7\" OLED 120Hz",
+        "processor": "Dimensity 7050",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP triple",
+        "segment": "Style-focused midrange",
+        "pros": ["Design", "Camera"],
+        "cons": ["Performance average"]
+      },
+      {
+        "model": "Oppo Find N3 Flip",
+        "price": 94999,
+        "display": "6.8\" Foldable AMOLED 120Hz",
+        "processor": "Dimensity 9200",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "4300 mAh",
+        "camera": "50MP Triple",
+        "segment": "Foldable flagship",
+        "pros": ["Compact foldable", "Good camera"],
+        "cons": ["Expensive", "Small outer display"]
+      }
+    ],
+    "Motorola": [
+      {
+        "model": "Moto Edge 50 Fusion",
+        "price": 24999,
+        "display": "6.7\" pOLED 144Hz",
+        "processor": "Snapdragon 7s Gen 2",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP OIS",
+        "segment": "Clean Android midrange",
+        "pros": ["Stock Android", "High refresh rate"],
+        "cons": ["Average low-light camera"]
+      },
+      {
+        "model": "Motorola Razr 40",
+        "price": 59999,
+        "display": "6.9\" Foldable pOLED 144Hz",
+        "processor": "Snapdragon 7 Gen 1",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "4200 mAh",
+        "camera": "64MP Dual",
+        "segment": "Foldable mid-range",
+        "pros": ["Compact foldable", "Good design"],
+        "cons": ["Average camera", "Mid-range processor"]
+      }
+    ],
+    "iQOO": [
+      {
+        "model": "iQOO Neo 9 Pro",
+        "price": 35999,
+        "display": "6.78\" AMOLED 144Hz",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "5160 mAh",
+        "camera": "50MP",
+        "segment": "Gaming-focused",
+        "pros": ["Great performance", "Good thermals"],
+        "cons": ["Camera average"]
+      },
+      {
+        "model": "iQOO 12",
+        "price": 52999,
+        "display": "6.78\" AMOLED 144Hz",
+        "processor": "Snapdragon 8 Gen 3",
+        "ram": "16 GB",
+        "storage": "512 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP Triple",
+        "segment": "Gaming flagship",
+        "pros": ["Top gaming performance", "Good cooling"],
+        "cons": ["Heavy", "Average software"]
+      }
+    ],
+    "Nothing": [
+      {
+        "model": "Nothing Phone (2a)",
+        "price": 25999,
+        "display": "6.7\" OLED 120Hz",
+        "processor": "Dimensity 7200 Pro",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "5000 mAh",
+        "camera": "50MP dual",
+        "segment": "Design-focused midrange",
+        "pros": ["Unique design", "Clean OS"],
+        "cons": ["Limited service network"]
+      },
+      {
+        "model": "Nothing Phone (2)",
+        "price": 44999,
+        "display": "6.7\" LTPO OLED 120Hz",
+        "processor": "Snapdragon 8+ Gen 1",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "4700 mAh",
+        "camera": "50MP Dual",
+        "segment": "Premium design",
+        "pros": ["Unique Glyph interface", "Clean OS"],
+        "cons": ["Camera could be better"]
+      }
+    ]
+  },
+
+  "Laptop": {
+    "HP": [
+      {
+        "model": "HP Pavilion 15",
+        "price": 62000,
+        "display": "15.6\" FHD",
+        "processor": "Intel i5 13th Gen",
+        "ram": "16 GB",
+        "storage": "512 GB SSD",
+        "segment": "Office",
+        "pros": ["Good value", "Reliable"],
+        "cons": ["Basic design"]
+      },
+      {
+        "model": "HP Victus 16",
+        "price": 89000,
+        "display": "16.1\" FHD 144Hz",
+        "processor": "Ryzen 7 7840HS",
+        "ram": "16 GB",
+        "storage": "1 TB SSD",
+        "segment": "Gaming",
+        "pros": ["Good GPU", "Big screen"],
+        "cons": ["Heavy"]
+      },
+      {
+        "model": "HP Spectre x360 14",
+        "price": 125000,
+        "display": "14\" OLED 2.8K",
+        "processor": "Intel i7 13th Gen",
+        "ram": "16 GB",
+        "storage": "1 TB SSD",
+        "segment": "Premium convertible",
+        "pros": ["Premium build", "Great display"],
+        "cons": ["Expensive"]
+      }
+    ],
+    "Dell": [
+      {
+        "model": "Dell Inspiron 14",
+        "price": 58000,
+        "display": "14\" FHD",
+        "processor": "Intel i5 12th Gen",
+        "ram": "16 GB",
+        "storage": "512 GB SSD",
+        "segment": "Student / Office",
+        "pros": ["Compact", "Trusted brand"],
+        "cons": ["No dedicated GPU"]
+      },
+      {
+        "model": "Dell G15",
+        "price": 94000,
+        "display": "15.6\" FHD 165Hz",
+        "processor": "Intel i7 13th Gen",
+        "ram": "16 GB",
+        "storage": "512 GB SSD",
+        "segment": "Gaming",
+        "pros": ["Strong performance"],
+        "cons": ["Thick and heavy"]
+      },
+      {
+        "model": "Dell XPS 13",
+        "price": 115000,
+        "display": "13.4\" OLED 3.5K",
+        "processor": "Intel i7 13th Gen",
+        "ram": "16 GB",
+        "storage": "512 GB SSD",
+        "segment": "Ultra-premium",
+        "pros": ["Excellent build quality", "Beautiful display"],
+        "cons": ["Very expensive"]
+      }
+    ],
+    "Asus": [
+      {
+        "model": "ASUS TUF F15",
+        "price": 82000,
+        "display": "15.6\" 144Hz",
+        "processor": "Intel i7 12th Gen",
+        "ram": "16 GB",
+        "storage": "512 GB SSD",
+        "segment": "Gaming",
+        "pros": ["Great performance", "Strong build"],
+        "cons": ["Heavy"]
+      },
+      {
+        "model": "ASUS VivoBook 15",
+        "price": 52000,
+        "display": "15.6\" FHD",
+        "processor": "Ryzen 5 5500U",
+        "ram": "16 GB",
+        "storage": "512 GB SSD",
+        "segment": "Everyday use",
+        "pros": ["Slim", "Backlit keyboard"],
+        "cons": ["No dedicated GPU"]
+      },
+      {
+        "model": "ASUS ROG Zephyrus G14",
+        "price": 145000,
+        "display": "14\" QLED 165Hz",
+        "processor": "Ryzen 9 7940HS",
+        "ram": "16 GB",
+        "storage": "1 TB SSD",
+        "segment": "Premium gaming",
+        "pros": ["Powerful in compact form", "Great battery for gaming laptop"],
+        "cons": ["Very expensive"]
+      }
+    ],
+    "Lenovo": [
+      {
+        "model": "Lenovo Slim 3",
+        "price": 45000,
+        "display": "15.6\" FHD",
+        "processor": "Ryzen 5 5500U",
+        "ram": "8 GB",
+        "storage": "512 GB SSD",
+        "segment": "Student",
+        "pros": ["Affordable", "Lightweight"],
+        "cons": ["Basic GPU"]
+      },
+      {
+        "model": "Lenovo Legion 5",
+        "price": 105000,
+        "display": "15.6\" QHD 165Hz",
+        "processor": "Ryzen 7 6800H",
+        "ram": "16 GB",
+        "storage": "1 TB SSD",
+        "segment": "Gaming",
+        "pros": ["Great cooling", "Strong GPU"],
+        "cons": ["Expensive"]
+      },
+      {
+        "model": "Lenovo Yoga 9i",
+        "price": 135000,
+        "display": "14\" OLED 4K",
+        "processor": "Intel i7 13th Gen",
+        "ram": "16 GB",
+        "storage": "1 TB SSD",
+        "segment": "Premium convertible",
+        "pros": ["Excellent 2-in-1", "Great speakers"],
+        "cons": ["Heavy for tablet mode"]
+      }
+    ]
+  },
+
+  "TV": {
+    "Sony": [
+      {
+        "model": "Sony Bravia 55X74K",
+        "price": 62000,
+        "display": "4K UHD",
+        "size": "55 inch",
+        "panel": "IPS",
+        "os": "Android",
+        "segment": "Premium",
+        "pros": ["Great motion", "Natural colors"],
+        "cons": ["Not OLED"]
+      },
+      {
+        "model": "Sony A95L OLED 55",
+        "price": 220000,
+        "display": "4K QD-OLED",
+        "size": "55 inch",
+        "panel": "QD-OLED",
+        "os": "Android",
+        "segment": "Flagship OLED",
+        "pros": ["Best picture quality", "Bright OLED"],
+        "cons": ["Extremely expensive"]
+      }
+    ],
+    "Samsung": [
+      {
+        "model": "Samsung Crystal 4K 55",
+        "price": 52000,
+        "display": "4K UHD",
+        "size": "55 inch",
+        "panel": "VA",
+        "os": "Tizen",
+        "segment": "Midrange",
+        "pros": ["Good contrast", "Stylish"],
+        "cons": ["No Dolby Vision"]
+      },
+      {
+        "model": "Samsung QLED Q60 55",
+        "price": 78000,
+        "display": "4K QLED",
+        "size": "55 inch",
+        "panel": "VA",
+        "os": "Tizen",
+        "segment": "Premium",
+        "pros": ["Bright screen", "Colors pop"],
+        "cons": ["Limited viewing angles"]
+      },
+      {
+        "model": "Samsung S95C OLED 55",
+        "price": 185000,
+        "display": "4K QD-OLED",
+        "size": "55 inch",
+        "panel": "QD-OLED",
+        "os": "Tizen",
+        "segment": "Flagship OLED",
+        "pros": ["Brightest OLED", "Great colors"],
+        "cons": ["One Connect Box required"]
+      }
+    ],
+    "LG": [
+      {
+        "model": "LG C3 OLED 55",
+        "price": 140000,
+        "display": "4K OLED",
+        "size": "55 inch",
+        "panel": "OLED",
+        "os": "webOS",
+        "segment": "Flagship",
+        "pros": ["Perfect blacks", "Best for movies"],
+        "cons": ["Expensive", "Burn-in risk with static logos"]
+      },
+      {
+        "model": "LG G3 OLED 55",
+        "price": 165000,
+        "display": "4K OLED",
+        "size": "55 inch",
+        "panel": "OLED",
+        "os": "webOS",
+        "segment": "Premium OLED",
+        "pros": ["MLA technology", "Very bright OLED"],
+        "cons": ["Expensive"]
+      }
+    ],
+    "Xiaomi": [
+      {
+        "model": "Xiaomi Smart TV X 50",
+        "price": 32000,
+        "display": "4K UHD",
+        "size": "50 inch",
+        "panel": "IPS",
+        "os": "Android TV",
+        "segment": "Budget",
+        "pros": ["Affordable", "Good features"],
+        "cons": ["Average brightness"]
+      },
+      {
+        "model": "Xiaomi QLED 4K 55",
+        "price": 45000,
+        "display": "4K QLED",
+        "size": "55 inch",
+        "panel": "QLED",
+        "os": "Android TV",
+        "segment": "Budget QLED",
+        "pros": ["Good value QLED", "Android TV"],
+        "cons": ["Limited local dimming"]
+      }
+    ]
+  },
+
+  "Bike": {
+    "Honda": [
+      {
+        "model": "Honda Shine 125",
+        "price": 85000,
+        "engine": "124cc",
+        "mileage": "55 kmpl",
+        "power": "10.5 PS",
+        "abs": "Single-channel",
+        "segment": "Commuter",
+        "pros": ["Very reliable", "Comfortable"],
+        "cons": ["Simple looks"]
+      },
+      {
+        "model": "Honda Activa 125",
+        "price": 95000,
+        "engine": "124cc",
+        "mileage": "50 kmpl",
+        "power": "8.29 PS",
+        "abs": "Combi-brake",
+        "segment": "Scooter",
+        "pros": ["Very reliable", "Comfortable"],
+        "cons": ["Common, lacks uniqueness"]
+      }
+    ],
+    "Yamaha": [
+      {
+        "model": "Yamaha R15 V4",
+        "price": 190000,
+        "engine": "155cc",
+        "mileage": "40 kmpl",
+        "power": "18.4 PS",
+        "abs": "Dual-channel",
+        "segment": "Sport",
+        "pros": ["Sporty design", "Great handling"],
+        "cons": ["Aggressive riding"]
+      },
+      {
+        "model": "Yamaha MT-15",
+        "price": 175000,
+        "engine": "155cc",
+        "mileage": "45 kmpl",
+        "power": "18.4 PS",
+        "abs": "Dual-channel",
+        "segment": "Street naked",
+        "pros": ["Great handling", "Aggressive looks"],
+        "cons": ["Slightly expensive"]
+      }
+    ],
+    "Royal Enfield": [
+      {
+        "model": "RE Classic 350",
+        "price": 210000,
+        "engine": "349cc",
+        "mileage": "35 kmpl",
+        "power": "20.2 PS",
+        "abs": "Dual-channel",
+        "segment": "Cruiser",
+        "pros": ["Premium feel", "Comfortable ride"],
+        "cons": ["Heavy"]
+      },
+      {
+        "model": "Royal Enfield Himalayan 450",
+        "price": 285000,
+        "engine": "452cc",
+        "mileage": "30 kmpl",
+        "power": "40 PS",
+        "abs": "Dual-channel",
+        "segment": "Adventure touring",
+        "pros": ["Great off-road", "Modern features"],
+        "cons": ["Heavy"]
+      }
+    ],
+    "TVS": [
+      {
+        "model": "TVS Apache RTR 160",
+        "price": 130000,
+        "engine": "159.7cc",
+        "mileage": "45 kmpl",
+        "power": "16.04 PS",
+        "abs": "Single-channel",
+        "segment": "Sport commuter",
+        "pros": ["Good performance", "Looks"],
+        "cons": ["Slightly stiff ride"]
+      },
+      {
+        "model": "TVS Jupiter",
+        "price": 85000,
+        "engine": "110cc",
+        "mileage": "55 kmpl",
+        "power": "7.5 PS",
+        "abs": "No",
+        "segment": "Scooter",
+        "pros": ["Practical", "Good storage"],
+        "cons": ["Basic features"]
+      }
+    ]
+  },
+
+  "Car": {
+    "Maruti": [
+      {
+        "model": "Maruti Baleno",
+        "price": 900000,
+        "engine": "1.2L Petrol",
+        "mileage": "20 kmpl",
+        "safety": "3 Star",
+        "segment": "Hatchback",
+        "pros": ["Low maintenance", "Fuel efficient"],
+        "cons": ["Not safest"]
+      },
+      {
+        "model": "Maruti Swift",
+        "price": 650000,
+        "engine": "1.2L Petrol",
+        "mileage": "23 kmpl",
+        "safety": "3 Star",
+        "segment": "Hatchback",
+        "pros": ["Fun to drive", "Fuel efficient"],
+        "cons": ["Basic features"]
+      }
+    ],
+    "Hyundai": [
+      {
+        "model": "Hyundai Creta",
+        "price": 1500000,
+        "engine": "1.5L Petrol",
+        "mileage": "17 kmpl",
+        "safety": "3 Star",
+        "segment": "SUV",
+        "pros": ["Feature-loaded", "Comfortable"],
+        "cons": ["Safety rating"]
+      },
+      {
+        "model": "Hyundai i20",
+        "price": 750000,
+        "engine": "1.2L Petrol",
+        "mileage": "19 kmpl",
+        "safety": "3 Star",
+        "segment": "Premium hatchback",
+        "pros": ["Feature-loaded", "Premium interior"],
+        "cons": ["Safety rating"]
+      }
+    ],
+    "Tata": [
+      {
+        "model": "Tata Nexon",
+        "price": 1300000,
+        "engine": "1.2L Turbo",
+        "mileage": "17 kmpl",
+        "safety": "5 Star",
+        "segment": "Compact SUV",
+        "pros": ["Excellent safety", "Strong features"],
+        "cons": ["Service average"]
+      },
+      {
+        "model": "Tata Punch",
+        "price": 700000,
+        "engine": "1.2L Petrol",
+        "mileage": "18 kmpl",
+        "safety": "5 Star",
+        "segment": "Micro SUV",
+        "pros": ["Excellent safety", "Compact size"],
+        "cons": ["Less powerful"]
+      }
+    ],
+    "Kia": [
+      {
+        "model": "Kia Seltos",
+        "price": 1700000,
+        "engine": "1.5L Turbo",
+        "mileage": "17 kmpl",
+        "safety": "3 Star+",
+        "segment": "SUV",
+        "pros": ["Modern interior", "Good features"],
+        "cons": ["Safety rating could be better"]
+      },
+      {
+        "model": "Kia Sonet",
+        "price": 850000,
+        "engine": "1.0L Turbo Petrol",
+        "mileage": "18 kmpl",
+        "safety": "3 Star",
+        "segment": "Compact SUV",
+        "pros": ["Loaded with features", "Good design"],
+        "cons": ["Space at rear"]
+      }
+    ]
+  },
+
+  "Refrigerator": {
+    "LG": [
+      {
+        "model": "LG 260L 3 Star",
+        "price": 27000,
+        "capacity": "260 L",
+        "type": "Double Door",
+        "stars": "3 Star",
+        "inverter": "Yes",
+        "segment": "Family",
+        "pros": ["Durable", "Energy efficient"],
+        "cons": ["Not convertible"]
+      }
+    ],
+    "Samsung": [
+      {
+        "model": "Samsung 253L 3 Star",
+        "price": 26000,
+        "capacity": "253 L",
+        "type": "Double Door",
+        "stars": "3 Star",
+        "inverter": "Yes",
+        "segment": "Midrange",
+        "pros": ["Good cooling"],
+        "cons": ["Basic design"]
+      }
+    ],
+    "Whirlpool": [
+      {
+        "model": "Whirlpool 240L 2 Star",
+        "price": 22000,
+        "capacity": "240 L",
+        "type": "Double Door",
+        "stars": "2 Star",
+        "inverter": "No",
+        "segment": "Budget",
+        "pros": ["Affordable", "Decent performance"],
+        "cons": ["Less efficient", "Older design"]
+      }
+    ]
+  },
+
+  "AC": {
+    "LG": [
+      {
+        "model": "LG 1.5 Ton 5 Star Inverter",
+        "price": 42000,
+        "capacity": "1.5 Ton",
+        "type": "Split",
+        "stars": "5 Star",
+        "segment": "Premium",
+        "pros": ["Silent", "Low power use"],
+        "cons": ["Pricey"]
+      }
+    ],
+    "Samsung": [
+      {
+        "model": "Samsung 1.5 Ton 3 Star",
+        "price": 35000,
+        "capacity": "1.5 Ton",
+        "type": "Split",
+        "stars": "3 Star",
+        "segment": "Midrange",
+        "pros": ["Good build"],
+        "cons": ["Higher power use"]
+      }
+    ],
+    "Daikin": [
+      {
+        "model": "Daikin 1.5 Ton 5 Star",
+        "price": 48000,
+        "capacity": "1.5 Ton",
+        "type": "Split",
+        "stars": "5 Star",
+        "segment": "Premium",
+        "pros": ["Very efficient", "Good cooling"],
+        "cons": ["Service centres limited in small towns"]
+      }
+    ]
+  },
+
+  "Washing Machine": {
+    "LG": [
+      {
+        "model": "LG 8kg Front Load",
+        "price": 34000,
+        "capacity": "8 kg",
+        "type": "Front Load",
+        "stars": "5 Star",
+        "segment": "Premium",
+        "pros": ["Silent", "Energy efficient"],
+        "cons": ["Expensive"]
+      }
+    ],
+    "Samsung": [
+      {
+        "model": "Samsung 7kg Top Load",
+        "price": 22000,
+        "capacity": "7 kg",
+        "type": "Top Load",
+        "stars": "3 Star",
+        "segment": "Midrange",
+        "pros": ["Affordable"],
+        "cons": ["More water usage"]
+      }
+    ],
+    "IFB": [
+      {
+        "model": "IFB 7kg Front Load",
+        "price": 32000,
+        "capacity": "7 kg",
+        "type": "Front Load",
+        "stars": "5 Star",
+        "segment": "Premium",
+        "pros": ["Good wash quality"],
+        "cons": ["Slightly noisy spin"]
+      }
+    ]
+  },
+
+  "Smartwatch": {
+    "Apple": [
+      {
+        "model": "Apple Watch Series 9",
+        "price": 41900,
+        "segment": "Premium iOS",
+        "pros": ["Best for iPhone users", "Great health tracking"],
+        "cons": ["Expensive", "Only works well with iPhone"]
+      },
+      {
+        "model": "Apple Watch SE 2",
+        "price": 29900,
+        "segment": "Budget iOS",
+        "pros": ["Affordable for Apple", "Good performance"],
+        "cons": ["No always-on display", "Older design"]
+      }
+    ],
+    "Samsung": [
+      {
+        "model": "Galaxy Watch 6",
+        "price": 28999,
+        "segment": "Android / Samsung",
+        "pros": ["Good display", "Strong health features"],
+        "cons": ["Battery 1–2 days"]
+      },
+      {
+        "model": "Galaxy Watch 6 Classic",
+        "price": 38999,
+        "segment": "Premium Android",
+        "pros": ["Rotating bezel", "Premium build"],
+        "cons": ["Battery life 1-2 days"]
+      }
+    ],
+    "Noise": [
+      {
+        "model": "Noise ColorFit Pro 4",
+        "price": 3999,
+        "segment": "Budget",
+        "pros": ["Affordable", "Many watch faces"],
+        "cons": ["Accuracy not perfect"]
+      },
+      {
+        "model": "Noise Pulse 2 Max",
+        "price": 2299,
+        "segment": "Ultra-budget",
+        "pros": ["Very affordable", "Large display"],
+        "cons": ["Basic features"]
+      }
+    ]
+  },
+
+  "Tablet": {
+    "Apple": [
+      {
+        "model": "iPad 10th Gen",
+        "price": 34900,
+        "display": "10.9\" Retina",
+        "segment": "General use",
+        "pros": ["Smooth performance", "Good apps"],
+        "cons": ["Accessories costly"]
+      },
+      {
+        "model": "iPad Air 5th Gen",
+        "price": 59900,
+        "display": "10.9\" Liquid Retina",
+        "segment": "Prosumer",
+        "pros": ["M1 chip powerful", "Supports Apple Pencil 2"],
+        "cons": ["No ProMotion"]
+      }
+    ],
+    "Samsung": [
+      {
+        "model": "Galaxy Tab S9",
+        "price": 72999,
+        "display": "11\" AMOLED 120Hz",
+        "segment": "Premium Android",
+        "pros": ["Great screen", "S Pen included"],
+        "cons": ["Pricey"]
+      },
+      {
+        "model": "Galaxy Tab A9+",
+        "price": 19999,
+        "display": "11\" LCD 90Hz",
+        "segment": "Budget Android",
+        "pros": ["Affordable", "Good for media"],
+        "cons": ["Average performance"]
+      }
+    ]
+  },
+
+  "Camera": {
+    "Canon": [
+      {
+        "model": "Canon EOS R10",
+        "price": 82000,
+        "segment": "Entry mirrorless",
+        "pros": ["Good autofocus", "Compact"],
+        "cons": ["Limited lens options vs full-frame"]
+      }
+    ],
+    "Sony": [
+      {
+        "model": "Sony A7 III",
+        "price": 160000,
+        "segment": "Full-frame mirrorless",
+        "pros": ["Great low-light", "Good video"],
+        "cons": ["Menu system confusing"]
+      }
+    ]
+  },
+
+  "Headphones": {
+    "Sony": [
+      {
+        "model": "Sony WH-1000XM5",
+        "price": 29990,
+        "segment": "Premium ANC",
+        "pros": ["Top noise cancelling", "Comfortable"],
+        "cons": ["Expensive"]
+      },
+      {
+        "model": "Sony WF-1000XM5",
+        "price": 24990,
+        "segment": "Premium TWS ANC",
+        "pros": ["Excellent ANC", "Great sound"],
+        "cons": ["Expensive", "Battery average"]
+      }
+    ],
+    "JBL": [
+      {
+        "model": "JBL Tune 760NC",
+        "price": 7999,
+        "segment": "Midrange ANC",
+        "pros": ["Punchy bass"],
+        "cons": ["Plastic build"]
+      },
+      {
+        "model": "JBL Live 660NC",
+        "price": 9999,
+        "segment": "Mid-range ANC",
+        "pros": ["Good sound", "Comfortable"],
+        "cons": ["ANC not as strong as Sony"]
+      }
+    ],
+    "Boat": [
+      {
+        "model": "boAt Rockerz 550",
+        "price": 1999,
+        "segment": "Budget",
+        "pros": ["Loud sound"],
+        "cons": ["Average comfort"]
+      },
+      {
+        "model": "boAt Airdopes 141",
+        "price": 1499,
+        "segment": "Budget TWS",
+        "pros": ["Very affordable", "Good battery"],
+        "cons": ["Average sound quality"]
+      }
+    ]
+  },
+
+  "Monitor": {
+    "LG": [
+      {
+        "model": "LG 24MP60",
+        "price": 13000,
+        "segment": "24\" IPS FHD",
+        "pros": ["Good colors"],
+        "cons": ["60Hz only"]
+      }
+    ],
+    "Dell": [
+      {
+        "model": "Dell S2721HGF",
+        "price": 23000,
+        "segment": "27\" 144Hz gaming",
+        "pros": ["High refresh rate"],
+        "cons": ["1080p on 27 inch"]
+      }
+    ]
+  },
+
+  "Fan": {
+    "Usha": [
+      {
+        "model": "Usha Bloom Daffodil",
+        "price": 3200,
+        "segment": "Ceiling fan",
+        "pros": ["Good air delivery"],
+        "cons": ["Design simple"]
+      }
+    ],
+    "Havells": [
+      {
+        "model": "Havells Stealth Air",
+        "price": 6500,
+        "segment": "Premium ceiling fan",
+        "pros": ["Silent", "Stylish"],
+        "cons": ["Expensive"]
+      }
+    ]
+  },
+
+  "Geyser": {
+    "AO Smith": [
+      {
+        "model": "AO Smith 15L Vertical",
+        "price": 9200,
+        "segment": "Storage geyser",
+        "pros": ["Good build", "Safe"],
+        "cons": ["Takes time to heat"]
+      }
+    ],
+    "Bajaj": [
+      {
+        "model": "Bajaj Flora 3L Instant",
+        "price": 4500,
+        "segment": "Instant geyser",
+        "pros": ["Heats quickly"],
+        "cons": ["Only for small usage"]
+      }
+    ]
+  }
+}
